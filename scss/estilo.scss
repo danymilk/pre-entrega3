@@ -27,3 +27,49 @@ ul li a{
     font-family: 'Gloria Hallelujah', cursive;
     margin: 30px;
 }
+ul li a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 30px;
+}
+p{
+    color: black;
+    font-size: 30px;
+    font-weight: 50;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.contenedorpastel {
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 30px
+}
+h3{
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    padding-bottom: 30px; 
+}
+form{
+    color: black;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: left;
+    padding-bottom: 30px; 
+}
